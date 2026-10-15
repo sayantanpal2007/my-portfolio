@@ -196,7 +196,7 @@ document.addEventListener('DOMContentLoaded', () => {
       formStatus.className = 'form-status success';
 
       // Construct mailto link so it works instantly without any backend setup needed!
-      const mailtoLink = `mailto:sayantan.pal@example.com?subject=${encodeURIComponent(
+      const mailtoLink = `mailto:sayantan522@gmail.com?subject=${encodeURIComponent(
         subject || `Portfolio Contact from ${name}`
       )}&body=${encodeURIComponent(
         `Hi,\n\nName: ${name}\nEmail: ${email}\n\nMessage:\n${message}\n`
