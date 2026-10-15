@@ -70,10 +70,11 @@ Then visit `http://localhost:8000` in your web browser.
 
 All files have clear comments indicating where you can update any specific details:
 
-### 1. Social & Contact Links
-- **GitHub**: Search for `https://github.com/sayantanpal` in `index.html` to link your exact GitHub profile username.
-- **LinkedIn**: Search for `https://linkedin.com/in/sayantanpal` in `index.html` to link your exact LinkedIn profile.
-- **Email**: Update `sayantan.pal@example.com` in `index.html` (line 680) and `js/main.js` (line 199) with your real email address.
+### 1. Social & Contact Details (Configured)
+- **Email**: `sayantan522@gmail.com`
+- **GitHub**: `https://github.com/sayantanpal2007`
+- **LinkedIn**: `https://www.linkedin.com/in/sayantan-pal-658824385?utm_source=share_via&utm_content=profile&utm_medium=member_android`
+- **Location**: `Pandua, Hooghly, West Bengal, India`
 
 ### 2. Education & Institution Details
 - In the `<section id="education">` block in `index.html`, you can replace the placeholder names `B.Tech Engineering Institution`, `Higher Secondary School`, and `Secondary High School` with the exact names of your college and schools whenever you like.
